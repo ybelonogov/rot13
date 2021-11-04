@@ -1,0 +1,8 @@
+//входной фаил
+input:=input.txt
+//фаил вывода
+output:=output.txt
+//размер сдвига
+shiftSize:=13
+//размер буфера
+bufferSize:=5
