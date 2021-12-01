@@ -3,6 +3,6 @@ input:=input.txt
 //фаил выводаinput.txt
 output:=output.txt
 //размер сдвига
-shiftSize:=4
+shiftSize:=2
 //размер буфера
 bufferSize:=3
